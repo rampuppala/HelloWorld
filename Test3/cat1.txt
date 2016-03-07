@@ -1,0 +1,15 @@
+EN.550.171 4.0 Discrete Mathematics
+AS.600.104 1.0 Computer Ethics
+EN.600.107 3.0 Intro. Programming in Java
+EN.600.120 4.0 Intermediate Programming
+EN.600.226 4.0 Data Structures
+PY.600.233 3.0 Computer System Fundamentals
+EN.600.250 3.0 User Interf. & Mobile Apps
+EN.600.271 3.0 Automata & Computation Theory
+EN.600.316 3.0 Database Systems
+EN.600.321 3.0 Object Oriented Software Engr
+EN.600.328 3.0 Compilers and Interpreters
+EN.600.363 3.0 Introduction to Algorithms
+EN.600.426 3.0 Princ. of Prog. Languages
+EN.600.491 1.5 Computer Science Workshop I
+EN.661.110 3.0 Prof. Comm. for Science

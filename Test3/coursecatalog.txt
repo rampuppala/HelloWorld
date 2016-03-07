@@ -1,0 +1,29 @@
+AS.010.102 4.00	The History of Western Art II
+AS.010.103 4.00	The History of Western Art II
+AS.010.104 2.00	The History of Western Art II
+AS.010.105 3.00	The History of Western Art II
+AS.010.204 4.00	Italian Art in the Middle Ages
+AS.010.212 4.00	Mirror Mirror: Reflections in Art from Van Eyck to Velázquez
+AS.010.251 4.00	Medieval Spaces: Site, Image, and Viewer in the Middle
+AS.010.304 4.00	Pictures on Walls: Murals and Mosaics in the Byzantine and Medieval Worlds
+AS.010.315 4.00	Art of the Assyrian Empire, 1000-600 BCE
+AS.010.321 4.00	Pompeii: The Art and Architecture of a Roman Town
+AS.010.326 4.00	Monsters, Madmen, and Matadors: Goya between Truth and Fantasy
+AS.010.328 4.00	The Holy Undead: Relics, Reliquaries, and the Cult of Saints in Medieval and Early Modern Europe
+AS.010.366 4.00	Native American Art
+AS.010.402 4.00	Ancient Art in Fascist Italy
+AS.010.403 4.00	Art and Science in the Middle Ages
+AS.010.404 4.00	The Cult Image in the Renaissance 
+AS.010.406 4.00	Performance Art in America and Europe: 1909 to Present
+AS.010.407 4.00	Ancient Americas Metallurgy
+AS.010.502 4.00	Independent Study 1
+AS.010.501 4.00	Independent Study 2
+AS.010.503 2.00	Independent Study 3
+AS.010.504 3.00	Independent Study 4
+AS.010.505 1.00	Independent Study 5
+AS.010.506 4.00	Independent Study 6
+AS.010.507 1.00	Independent Study 7
+AS.010.508 3.00	Independent Study 8
+AS.010.509 3.00	Independent Study 9
+AS.010.502 3.00	Independent Study TWO
+AS.010.502 3.00	Independent Study THREE
